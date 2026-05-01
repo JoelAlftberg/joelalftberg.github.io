@@ -1,0 +1,8 @@
+title: Joel Alftberg
+remote_theme: piharpi/jekyll-klise
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
